@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Santos;Wilian;;;
-FN: Santos Wilian
+N:Pacheco;Victor;;;
+FN: Pacheco Victor
 ORG:GH Wesco;
-TITLE:Comercial
-EMAIL;type=INTERNET;type=WORK;type=pref:wilian.santos@ghwesco.com.br
-TEL;type=WORK;type=VOICE:11 963521001
+TITLE:Gerente de Contas
+EMAIL;type=INTERNET;type=WORK;type=pref:victor.pacheco@ghwesco.com.br
+TEL;type=WORK;type=VOICE:11 939376565
 item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
