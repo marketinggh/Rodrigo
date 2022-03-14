@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Pacheco;Victor;;;
-FN: Pacheco Victor
+N:Araya;Rodrigo;;;
+FN: Araya Rodrigo
 ORG:GH Wesco;
-TITLE:Gerente de Contas
-EMAIL;type=INTERNET;type=WORK;type=pref:victor.pacheco@ghwesco.com.br
-TEL;type=WORK;type=VOICE:11 939376565
+TITLE:Gerente de Vendas
+EMAIL;type=INTERNET;type=WORK;type=pref:rodrigo.araya@ghwesco.com.br
+TEL;type=WORK;type=VOICE:11 992790282
 item1.ADR;type=WORK;type=pref:;;Rua Machado Bitencourt\, 361 \, 4 andar;;;Vila da Saúde;São Paulo
 item1.X-ABADR:sg
 item2.URL;type=pref:https://ghwesco.com.br/
